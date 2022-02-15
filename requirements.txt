@@ -8,4 +8,4 @@ requests
 scikit-image
 scipy
 tqdm
-yapf
+
